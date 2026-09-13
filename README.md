@@ -15,15 +15,18 @@
 
 ## 🧠 About Me
 
-I'm passionate about building **AI systems that create art** — blending mathematics, machine learning, and creative coding to make tech feel alive.
+B.Tech AI & ML student at NIMS University, Jaipur, and solo founder of **HOLO✦PAD Industries** — building AI systems and creative tech that make the browser feel alive.
 
-From turning images into **hand-drawn sketches** to designing **sci-fi workspaces** with WebGL, I love exploring where imagination meets logic.
-
-- 🚀 Currently building **[Sketchify](https://github.com/cxcbbjx/sketchify)** — AI-powered sketch generator
-- 🌐 Shipping **[HOLOPAD](https://holopad.netlify.app/)** — a sci-fi WebGL + Three.js workspace
-- 🧩 Exploring **mathematical generative art** & **real-time audio-reactive visuals**
-- 🏆 Invited to **Techfest IIT Bombay (2025)**
-- 🎮 NVIDIA Developer Program Member
+- 🌐 Building **[HOLO✦PAD](https://holopad.netlify.app/)** — a browser-native 3D spatial creation platform (WebGL + Three.js, voxel editor + hologram pipeline), solo since Dec 2024
+- ⚛️ Building **QVANTA** for Smart India Hackathon 2026 — an AI-based interactive quantum computing learning platform (Team Code Busters)
+- 🎨 Shipped **[Sketchify](https://github.com/cxcbbjx/sketchify)** — AI-powered hand-drawn sketch generator (PyTorch + SAM + U-2-Net)
+- 🧩 Building **Samvaad** — a BERT + RAG mental health chatbot for introverts
+- 📐 Exploring **Equation Art** — real-time visual art generated from mathematical equations
+- 💼 Incoming **SDE Intern @ Google** (remote) and **Backend Engineer Intern @ Nintendo** (Kyoto)
+- 🚀 Selected for the **Google for Startups Accelerator India**
+- 🎮 **NVIDIA Developer Program** member
+- 🏆 Invited to **Techfest, IIT Bombay** (2025)
+- 📝 Co-authored *"Virtual Humans in WebGL"* and *"HOLO✦PAD: Perception-Driven Holographic Visualization"*
 
 ---
 
@@ -31,10 +34,12 @@ From turning images into **hand-drawn sketches** to designing **sci-fi workspace
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🎨 [Sketchify](https://github.com/cxcbbjx/sketchify) | AI-powered hand-drawn sketch generator using math-based art logic | Python · Node.js · React |
-| 🌐 [HOLOPAD](https://github.com/cxcbbjx/HOLOPAD) | Sci-fi AI workspace — WebGL + Three.js + generative AI | JavaScript · Three.js · WebGL |
-| 🤖 Samvaad *(coming soon)* | Mental health chatbot for introverts using RAG + BERT | Python · OpenAI API · Flask |
-| 📐 Equation Art *(coming soon)* | Real-time visual art generated from mathematical equations | JavaScript · WebGL · Math.js |
+| 🌐 [HOLO✦PAD](https://github.com/cxcbbjx/HOLOPAD) | Browser-native 3D spatial creation platform — WebGL + Three.js voxel editor with a hologram pipeline | JavaScript · Three.js · WebGL |
+| ⚛️ QVANTA | Interactive quantum computing learning platform for SIH 2026 — 3D circuit builder + AI tutor | React · Three.js/R3F · FastAPI · Qiskit |
+| 🎨 [Sketchify](https://github.com/cxcbbjx/sketchify) | AI-powered hand-drawn sketch generator using math-based art logic | Python · PyTorch · SAM/U-2-Net |
+| 🤖 Samvaad *(in progress)* | Mental health chatbot for introverts using RAG + BERT | Python · Flask |
+| 📐 Equation Art *(exploring)* | Real-time visual art generated from mathematical equations | JavaScript · WebGL · Math.js |
+| 🔮 Kundli GPT | Vedic astrology prompt system + chatbot | React |
 
 ---
 
@@ -59,6 +64,7 @@ From turning images into **hand-drawn sketches** to designing **sci-fi workspace
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
