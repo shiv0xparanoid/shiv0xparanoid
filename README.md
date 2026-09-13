@@ -75,8 +75,8 @@ B.Tech AI & ML student at NIMS University, Jaipur, and solo founder of **HOLO✦
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cxcbbjx&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&icon_color=E8C468&text_color=EDE6D6&cache_seconds=1800" height="160"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cxcbbjx&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&text_color=EDE6D6&cache_seconds=1800" height="160"/>
+<img src="https://github-stats-extended.vercel.app/api?username=cxcbbjx&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&icon_color=E8C468&text_color=EDE6D6&cache_seconds=1800" height="160"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=cxcbbjx&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&text_color=EDE6D6&cache_seconds=1800" height="160"/>
 
 </div>
 
