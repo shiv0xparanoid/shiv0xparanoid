@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,20:1a2744,40:8B3A1A,60:C4622D,80:E8854A,100:F5A66B&height=220&section=header&text=Shivang&fontSize=72&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,20:141414,40:1f1a10,60:3d3220,80:8a6d2e,100:d4af37&height=220&section=header&text=Shivang&fontSize=72&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivang16062006/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://toodumb.netlify.app/)
@@ -75,14 +75,14 @@ B.Tech AI & ML student at NIMS University, Jaipur, and solo founder of **HOLO✦
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cxcbbjx&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF8C42&icon_color=C2185B&text_color=c9d1d9" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxcbbjx&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF8C42&text_color=c9d1d9" height="160"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cxcbbjx&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&icon_color=E8C468&text_color=EDE6D6&cache_seconds=1800" height="160"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cxcbbjx&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&text_color=EDE6D6&cache_seconds=1800" height="160"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=cxcbbjx&theme=github-dark-blue&hide_border=true&background=0d1117&ring=FF8C42&fire=C2185B&currStreakLabel=FF8C42" height="160"/>
+<img src="https://streak-stats.demolab.com/?user=cxcbbjx&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=D4AF37&fire=E8C468&currStreakLabel=D4AF37" height="160"/>
 
 </div>
 
@@ -90,7 +90,7 @@ B.Tech AI & ML student at NIMS University, Jaipur, and solo founder of **HOLO✦
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5A66B,20:E8854A,40:C4622D,60:8B3A1A,80:1a2744,100:0a0e1a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4af37,20:8a6d2e,40:3d3220,60:1f1a10,80:141414,100:0a0a0a&height=120&section=footer" width="100%"/>
 
 *🐙 coding is for fun*
 
