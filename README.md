@@ -22,8 +22,9 @@ B.Tech AI & ML student at NIMS University, Jaipur, and solo founder of **HOLO✦
 - 🎨 Shipped **[Sketchify](https://github.com/cxcbbjx/sketchify)** — AI-powered hand-drawn sketch generator (PyTorch + SAM + U-2-Net)
 - 🧩 Building **Samvaad** — a BERT + RAG mental health chatbot for introverts
 - 📐 Exploring **Equation Art** — real-time visual art generated from mathematical equations
-- 💼 Incoming **SDE Intern @ Google** (remote) and **Backend Engineer Intern @ Nintendo** (Kyoto)
-- 🚀 Selected for the **Google for Startups Accelerator India**
+- 💼  **SDE Intern @ Google** (remote) 
+- **Backend Engineer Intern @ Nintendo** (Kyoto)
+- 🚀 **Google for Startups Accelerator India**
 - 🎮 **NVIDIA Developer Program** member
 - 🏆 Invited to **Techfest, IIT Bombay** (2025)
 - 📝 Co-authored *"Virtual Humans in WebGL"* and *"HOLO✦PAD: Perception-Driven Holographic Visualization"*
@@ -34,9 +35,9 @@ B.Tech AI & ML student at NIMS University, Jaipur, and solo founder of **HOLO✦
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🌐 [HOLO✦PAD](https://github.com/cxcbbjx/HOLOPAD) | Browser-native 3D spatial creation platform — WebGL + Three.js voxel editor with a hologram pipeline | JavaScript · Three.js · WebGL |
+| 🌐 [HOLO✦PAD](https://github.com/shiv0xparanoid/HOLOPAD) | Browser-native 3D spatial creation platform — WebGL + Three.js voxel editor with a hologram pipeline | JavaScript · Three.js · WebGL |
 | ⚛️ QVANTA | Interactive quantum computing learning platform for SIH 2026 — 3D circuit builder + AI tutor | React · Three.js/R3F · FastAPI · Qiskit |
-| 🎨 [Sketchify](https://github.com/cxcbbjx/sketchify) | AI-powered hand-drawn sketch generator using math-based art logic | Python · PyTorch · SAM/U-2-Net |
+| 🎨 [Sketchify](https://github.com/shiv0xparanoid/sketchify) | AI-powered hand-drawn sketch generator using math-based art logic | Python · PyTorch · SAM/U-2-Net |
 | 🤖 Samvaad *(in progress)* | Mental health chatbot for introverts using RAG + BERT | Python · Flask |
 | 📐 Equation Art *(exploring)* | Real-time visual art generated from mathematical equations | JavaScript · WebGL · Math.js |
 | 🔮 Kundli GPT | Vedic astrology prompt system + chatbot | React |
@@ -75,14 +76,14 @@ B.Tech AI & ML student at NIMS University, Jaipur, and solo founder of **HOLO✦
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=cxcbbjx&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&icon_color=E8C468&text_color=EDE6D6&cache_seconds=1800" height="160"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=cxcbbjx&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&text_color=EDE6D6&cache_seconds=1800" height="160"/>
+<img src="https://github-stats-extended.vercel.app/api?username=shiv0xparanoid&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&icon_color=E8C468&text_color=EDE6D6&cache_seconds=1800" height="160"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shiv0xparanoid&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&text_color=EDE6D6&cache_seconds=1800" height="160"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=cxcbbjx&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=D4AF37&fire=E8C468&currStreakLabel=D4AF37" height="160"/>
+<img src="https://streak-stats.demolab.com/?user=shiv0xparanoid&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=D4AF37&fire=E8C468&currStreakLabel=D4AF37" height="160"/>
 
 </div>
 
