@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./banner.svg" width="860" />
+
+<br><br>
+
 <h3><code>shiv@github ~ $ ./contributions.sh</code></h3>
 <img src="./contrib-heatmap.svg" width="860" />
 
