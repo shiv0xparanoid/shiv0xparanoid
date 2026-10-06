@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 465" width="490" height="465">
+<style>.l{font:12px ui-monospace,Menlo,Consolas,'DejaVu Sans Mono',monospace;fill:#c9d1d9}.k{fill:#39d353;font-weight:bold}.r{opacity:0;animation:in .45s ease-out forwards}@keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}</style>
+<rect width="100%" height="100%" rx="10" fill="#0d1117"/>
+<path d="M0 10a10 10 0 0 1 10-10h470a10 10 0 0 1 10 10v22H0z" fill="#161b22"/>
+<circle cx="18" cy="16" r="5" fill="#ff5f56"/><circle cx="36" cy="16" r="5" fill="#ffbd2e"/><circle cx="54" cy="16" r="5" fill="#27c93f"/>
+<text x="245.0" y="20" text-anchor="middle" class="l" style="fill:#8b949e">shiv@github ~ $ neofetch</text>
+<text class="l r" x="20" y="58" xml:space="preserve" style="animation-delay:0.40s"><tspan fill="#e8c468">shiv</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#e8c468">github</tspan></text>
+<text class="l r" x="20" y="74" xml:space="preserve" style="animation-delay:0.58s"><tspan fill="#8b949e">──────────────────────────────────</tspan></text>
+<text class="l r" x="20" y="98" xml:space="preserve" style="animation-delay:0.76s"><tspan class="k">Name:      </tspan>Shivang  (shiv0xparanoid)</text>
+<text class="l r" x="20" y="124" xml:space="preserve" style="animation-delay:0.94s"><tspan class="k">Now:       </tspan>Solo founder, HOLO✦PAD Industries · B.Tech</text>
+<text class="l r" x="20" y="141" xml:space="preserve" style="animation-delay:1.12s"><tspan class="k">           </tspan>AI &amp; ML, NIMS University Jaipur</text>
+<text class="l r" x="20" y="167" xml:space="preserve" style="animation-delay:1.30s"><tspan class="k">Building:  </tspan>HOLO✦PAD (WebGL 3D platform) · QVANTA for</text>
+<text class="l r" x="20" y="184" xml:space="preserve" style="animation-delay:1.48s"><tspan class="k">           </tspan>SIH 2026 · Samvaad (RAG chatbot)</text>
+<text class="l r" x="20" y="210" xml:space="preserve" style="animation-delay:1.66s"><tspan class="k">Prev:      </tspan>SDE Intern @ Google · Backend Engineer</text>
+<text class="l r" x="20" y="227" xml:space="preserve" style="animation-delay:1.84s"><tspan class="k">           </tspan>Intern @ Nintendo, Kyoto</text>
+<text class="l r" x="20" y="253" xml:space="preserve" style="animation-delay:2.02s"><tspan class="k">Stack:     </tspan>Python · PyTorch · OpenCV · Three.js · WebGL</text>
+<text class="l r" x="20" y="270" xml:space="preserve" style="animation-delay:2.20s"><tspan class="k">           </tspan>· React · FastAPI · Docker</text>
+<text class="l r" x="20" y="296" xml:space="preserve" style="animation-delay:2.38s"><tspan class="k">Honors:    </tspan>Techfest IIT Bombay '25 · Google for</text>
+<text class="l r" x="20" y="313" xml:space="preserve" style="animation-delay:2.56s"><tspan class="k">           </tspan>Startups Accelerator India · NVIDIA</text>
+<text class="l r" x="20" y="330" xml:space="preserve" style="animation-delay:2.74s"><tspan class="k">           </tspan>Developer Program</text>
+<text class="l r" x="20" y="356" xml:space="preserve" style="animation-delay:2.92s"><tspan class="k">Papers:    </tspan>Virtual Humans in WebGL · HOLO✦PAD:</text>
+<text class="l r" x="20" y="373" xml:space="preserve" style="animation-delay:3.10s"><tspan class="k">           </tspan>Perception-Driven Holographic Visualization</text>
+<text class="l r" x="20" y="399" xml:space="preserve" style="animation-delay:3.28s"><tspan class="k">Web:       </tspan>holopad.netlify.app · toodumb.netlify.app</text>
+<g class="r" style="animation-delay:3.46s"><rect x="20" y="417" width="24" height="12" rx="2" fill="#ff5f56"/><rect x="46" y="417" width="24" height="12" rx="2" fill="#ffbd2e"/><rect x="72" y="417" width="24" height="12" rx="2" fill="#27c93f"/><rect x="98" y="417" width="24" height="12" rx="2" fill="#39d353"/><rect x="124" y="417" width="24" height="12" rx="2" fill="#58a6ff"/><rect x="150" y="417" width="24" height="12" rx="2" fill="#bc8cff"/><rect x="176" y="417" width="24" height="12" rx="2" fill="#e8c468"/><rect x="202" y="417" width="24" height="12" rx="2" fill="#c9d1d9"/></g>
+</svg>
