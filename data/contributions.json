@@ -1,8 +1,8 @@
 {
  "user": "shiv0xparanoid",
- "total": 118,
- "current_streak": 12,
- "longest_streak": 12,
+ "total": 108,
+ "current_streak": 14,
+ "longest_streak": 14,
  "best_day": {
   "date": "2026-02-05",
   "count": 14,
@@ -31,8 +31,8 @@
   },
   {
    "date": "2025-10-23",
-   "count": 11,
-   "level": 4
+   "count": 0,
+   "level": 0
   },
   {
    "date": "2025-10-24",
@@ -56,8 +56,8 @@
   },
   {
    "date": "2025-10-28",
-   "count": 2,
-   "level": 1
+   "count": 0,
+   "level": 0
   },
   {
    "date": "2025-10-29",
@@ -1136,13 +1136,13 @@
   },
   {
    "date": "2026-06-01",
-   "count": 1,
-   "level": 1
+   "count": 0,
+   "level": 0
   },
   {
    "date": "2026-06-02",
-   "count": 1,
-   "level": 1
+   "count": 0,
+   "level": 0
   },
   {
    "date": "2026-06-03",
@@ -1831,8 +1831,13 @@
   },
   {
    "date": "2026-10-18",
-   "count": 0,
-   "level": 0
+   "count": 1,
+   "level": 1
+  },
+  {
+   "date": "2026-10-19",
+   "count": 4,
+   "level": 2
   }
  ]
 }
