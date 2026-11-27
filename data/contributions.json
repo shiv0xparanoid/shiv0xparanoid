@@ -1,8 +1,8 @@
 {
  "user": "shiv0xparanoid",
- "total": 154,
- "current_streak": 52,
- "longest_streak": 52,
+ "total": 156,
+ "current_streak": 53,
+ "longest_streak": 53,
  "best_day": {
   "date": "2026-02-05",
   "count": 14,
@@ -1851,7 +1851,12 @@
   },
   {
    "date": "2026-11-26",
-   "count": 3,
+   "count": 4,
+   "level": 2
+  },
+  {
+   "date": "2026-11-27",
+   "count": 1,
    "level": 1
   }
  ]
